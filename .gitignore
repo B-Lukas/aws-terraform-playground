@@ -3,3 +3,4 @@
 /.idea/workspace.xml
 /aws/terraform/.terraform/
 /aws/terraform/.terraform.lock.hcl
+/.idea/
