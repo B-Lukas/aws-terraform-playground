@@ -1,3 +1,5 @@
-/aws/terraform/.terraform/terraform.tfstate
-/aws/terraform/.terraform.lock.hcl
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
 /aws/terraform/.terraform/
+/aws/terraform/.terraform.lock.hcl
